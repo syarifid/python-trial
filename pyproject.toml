@@ -5,7 +5,9 @@ description = "Test Project"
 authors = [
     {name = "Muhammad Syarifudin", email = "muhammad.el.syarifudin@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "flask>=3.0.2",
+]
 requires-python = ">=3.11"
 readme = "README.md"
 license = {text = "MIT"}
